@@ -1,4 +1,5 @@
 # 🐛 Silkworm Feeding Classification and Segmentation
+> 🎓 This project was developed as part of the *Computer Vision* course at **Sapienza University of Rome**
 
 ## 📋 Overview
 
