@@ -67,7 +67,7 @@ The images were divided as follows:
 - Alberto Colella  
 
 ## 📚 References
-
+- MobileNetV2: [https://arxiv.org/abs/1801.04381](https://arxiv.org/abs/1801.04381)
 - DINO: [https://github.com/facebookresearch/dino](https://github.com/facebookresearch/dino)  
 - MobileViT: [https://arxiv.org/abs/2110.02178](https://arxiv.org/abs/2110.02178)
 
